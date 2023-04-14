@@ -2,15 +2,13 @@ export const App = () => {
   return (
     <div
       style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
+        width: '1200px',
+        border: '1px solid black',
+        margin: '0 auto',
+        padding: '15px',
       }}
     >
-      React homework template
+      <p>React homework template</p>
     </div>
   );
 };
