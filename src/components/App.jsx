@@ -1,14 +1,73 @@
+// import { FaAngleUp } from 'react-icons/fa';
+
+// import React, { useState, useEffect } from 'react';
+import { ScrollToTopComponent } from './ScrollToTopComponent/ScrollToTopComponent';
+
 export const App = () => {
   return (
-    <div
-      style={{
-        width: '1200px',
-        border: '1px solid black',
-        margin: '0 auto',
-        padding: '15px',
-      }}
-    >
-      <p>React homework template</p>
+    <div>
+      <h1>Text</h1>
+      <ScrollToTopComponent />
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem
+        impedit similique natus corrupti quos itaque, quisquam tempora nemo
+        consequatur fuga tempore, alias aliquam vel maiores tenetur. Neque nihil
+        ex consequatur!
+      </p>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem
+        impedit similique natus corrupti quos itaque, quisquam tempora nemo
+        consequatur fuga tempore, alias aliquam vel maiores tenetur. Neque nihil
+        ex consequatur!
+      </p>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem
+        impedit similique natus corrupti quos itaque, quisquam tempora nemo
+        consequatur fuga tempore, alias aliquam vel maiores tenetur. Neque nihil
+        ex consequatur!
+      </p>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem
+        impedit similique natus corrupti quos itaque, quisquam tempora nemo
+        consequatur fuga tempore, alias aliquam vel maiores tenetur. Neque nihil
+        ex consequatur!
+      </p>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem
+        impedit similique natus corrupti quos itaque, quisquam tempora nemo
+        consequatur fuga tempore, alias aliquam vel maiores tenetur. Neque nihil
+        ex consequatur!
+      </p>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem
+        impedit similique natus corrupti quos itaque, quisquam tempora nemo
+        consequatur fuga tempore, alias aliquam vel maiores tenetur. Neque nihil
+        ex consequatur!
+      </p>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem
+        impedit similique natus corrupti quos itaque, quisquam tempora nemo
+        consequatur fuga tempore, alias aliquam vel maiores tenetur. Neque nihil
+        ex consequatur!
+      </p>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem
+        impedit similique natus corrupti quos itaque, quisquam tempora nemo
+        consequatur fuga tempore, alias aliquam vel maiores tenetur. Neque nihil
+        ex consequatur!
+      </p>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem
+        impedit similique natus corrupti quos itaque, quisquam tempora nemo
+        consequatur fuga tempore, alias aliquam vel maiores tenetur. Neque nihil
+        ex consequatur!
+      </p>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem
+        impedit similique natus corrupti quos itaque, quisquam tempora nemo
+        consequatur fuga tempore, alias aliquam vel maiores tenetur. Neque nihil
+        ex consequatur!
+      </p>
     </div>
   );
 };
